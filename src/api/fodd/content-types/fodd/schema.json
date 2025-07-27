@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "fodds",
+  "info": {
+    "singularName": "fodd",
+    "pluralName": "fodds",
+    "displayName": "Fodd"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "product_name": {
+      "type": "string"
+    }
+  }
+}
